@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UfiairENE
-- 👀 I’m interested in UX designing and customer experience
-- 🌱 I’m currently learning cos learning everyday is gangster
+- 👀 I'm a UX designer and customer experience expert, a Golang developer
+- 🌱 I’m currently improving on all skills cos learning everyday is gangster
 - 💞️ I’m looking to collaborate on projects that help growth and optimize development
 - 📫 You can reach me on 09012812369
 
