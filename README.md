@@ -11,7 +11,10 @@ I am building a solid foundation in both frontend and backend technologies and l
 I am developer who is always ready to learn and build more for the future.
 
 ⚡ Relevant achievements
- Graduated as one of HNGi8 Finalist(An online Software internship organised and managed by Mark Essien) Professional Member 101 Blockchains
+
+Graduated as one of HNGi8 Finalist(An online Software internship organised and managed by Mark Essien) 
+
+Professional Member 101 Blockchains
 
 ✔️ I'm currently learning 
 
