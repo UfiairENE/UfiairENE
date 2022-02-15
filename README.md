@@ -22,6 +22,8 @@ Amazon Web Service (AWS)
 
 Blockchain Development (tools: Geth)
 
+Software Engineer Student at ALX Software Engineering School
+
 💡 Skills
  
 •Frontend Development
