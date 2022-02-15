@@ -22,33 +22,40 @@ Amazon Web Service (AWS)
 
 Blockchain Development (tools: Geth)
 
-💡 Skill Frontend Development
+💡 Skills
+ 
+•Frontend Development
 
 HTML
 CSS 
 Javascript
 
-Backend Development
+• Backend Development
 
 Golang 
 C++ 
 Python
 
-Database Management
+• Database Management
 
 SQL(MySQL) 
 NoSQL(MongoDB)
 
 
-API Documentation
+• API Documentation
+
 Postman
 
-Blockchain Development
+• Blockchain Development
+
 Geth
 
-Other
+• Other
+
 Figma
+
 Adobe XD
+
 JIRA
 
  
