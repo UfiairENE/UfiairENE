@@ -2,7 +2,7 @@ Hi there,
 
 I'm Covenant Ufia, a Software Developer. 
 
-A Golang developer and a user experience and customer experience expert who loves Blockchain
+A user experience and customer experience expert who loves Blockchain
 
 Through self-study and enrolling in a coding Bootcamp at ALX and Udemy, 
 
