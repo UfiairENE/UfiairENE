@@ -2,12 +2,11 @@ Hi there,
 
 I'm Covenant Ufia, a Software Developer. 
 
+💎 Software Engineer Student at ALX Software Engineering School
+
 A user experience and customer experience expert who loves Blockchain
 
 Through self-study and enrolling in a coding Bootcamp at ALX and Udemy, 
-
-
-💎 Software Engineer Student at ALX Software Engineering School
 
 I am building a solid foundation in both frontend and backend technologies and languages.
 
