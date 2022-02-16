@@ -31,13 +31,17 @@ Blockchain Development
 •Frontend Development
 
 HTML
+
 CSS 
+
 Javascript
 
 • Backend Development
 
 Golang 
+
 C++ 
+
 Python
 
 • Database Management
@@ -62,6 +66,7 @@ Adobe XD
 
 JIRA
 
+Shell
  
 I’m currently improving on all skills cos learning everyday is gangster
 I’m looking forward to collaborating on projects that help growth and optimize development
