@@ -6,6 +6,9 @@ A user experience and customer experience expert who loves Blockchain
 
 Through self-study and enrolling in a coding Bootcamp at ALX and Udemy, 
 
+
+💎 Software Engineer Student at ALX Software Engineering School
+
 I am building a solid foundation in both frontend and backend technologies and languages.
 
 I am developer who is always ready to learn and build more for the future.
@@ -20,9 +23,9 @@ Professional Member 101 Blockchains
 
 Amazon Web Service (AWS)
 
-Blockchain Development (tools: Geth)
+Blockchain Development 
 
-Software Engineer Student at ALX Software Engineering School
+
 
 💡 Skills
  
