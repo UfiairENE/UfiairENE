@@ -54,7 +54,9 @@ NoSQL(MongoDB)
 
 Postman
 
-• Blockchain Development
+• Blockchain Development (languages and tools)
+
+Solidity
 
 Geth
 
