@@ -6,7 +6,7 @@ I'm Covenant Ufia, a Software Developer.
 
 A user experience and customer experience expert who loves Blockchain
 
-Through self-study and enrolling in a coding Bootcamp at ALX and Udemy, 
+Through self-study and enrolling in a coding Bootcamp at ALX, Learnweb3dao and Udemy, 
 
 I am building a solid foundation in both frontend and backend technologies and languages.
 
