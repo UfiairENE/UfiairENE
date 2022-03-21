@@ -60,6 +60,12 @@ Solidity
 
 Geth
 
+Hardhat
+
+Remix
+
+Reach
+
 • Other
 
 Figma
