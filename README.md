@@ -8,13 +8,16 @@ And I'm excited Building amazing products.
 
 💎 Software Engineer Student at ALX Software Engineering School
 
-A user experience and customer experience expert who loves Blockchain
 
 Through self-study and enrolling in a coding Bootcamp at ALX, Learnweb3dao and Udemy, 
 
 I am building a solid foundation in both frontend and backend technologies and languages.
 
 I am developer who is always ready to learn and build more for the future.
+
+I write whitepapers and other technical research involving Golang and blockchain.
+
+Need samples? Ask me
 
 ⚡ Relevant achievements
 
