@@ -1,6 +1,10 @@
 Hi there,
 
-I'm Covenant Ufia, a Software Developer. 
+I'm Covenant Ufia, a Software Developer.
+
+Currently a Blockchain Developer at Capital Votes. 
+
+And I'm excited Building amazing products.
 
 💎 Software Engineer Student at ALX Software Engineering School
 
@@ -46,7 +50,7 @@ Python
 
 • Database Management
 
-SQL(MySQL) 
+SQL(MySQL, postgresql) 
 NoSQL(MongoDB)
 
 
@@ -61,6 +65,8 @@ Solidity
 Geth
 
 Hardhat
+
+Truffle
 
 Remix
 
