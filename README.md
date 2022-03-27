@@ -15,7 +15,7 @@ I am building a solid foundation in both frontend and backend technologies and l
 
 I am developer who is always ready to learn and build more for the future.
 
-I write whitepapers and other technical research involving Golang and blockchain.
+I write whitepapers and other technical research involving Golang and blockchain Development.
 
 Need samples? Ask me
 
