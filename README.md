@@ -6,8 +6,7 @@ Currently a Blockchain Developer at Capital Votes.
 
 And I'm excited Building amazing products.
 
-💎 Software Engineer Student at ALX Software Engineering School
-
+💎 
 
 Through self-study and enrolling in a coding Bootcamp at ALX, Learnweb3dao and Udemy, 
 
@@ -17,25 +16,23 @@ I am developer who is always ready to learn and build more for the future.
 
 I write whitepapers and other technical research involving Golang and blockchain Development.
 
-Need samples? Ask me
 
-⚡ Relevant achievements
+
+⚡ RELEVANT ACHIEVEMENTS
 
 Graduated as one of HNGi8 Finalist(An online Software internship organised and managed by Mark Essien) 
 
 Professional Member 101 Blockchains
 
-✔️ I'm currently learning 
+✔️ CURRENTLY LEARNING 
 
 Amazon Web Service (AWS)
 
-Blockchain Development 
 
 
-
-💡 Skills
+💡 SKILLS
  
-•Frontend Development
+•FRONTEND DEVELOPMENT
 
 HTML
 
@@ -43,7 +40,7 @@ CSS
 
 Javascript
 
-• Backend Development
+• BACKEND DEVELOPMENT
 
 Golang 
 
@@ -51,17 +48,17 @@ C++
 
 Python
 
-• Database Management
+• DATABASE MANAGEMENT
 
 SQL(MySQL, postgresql) 
 NoSQL(MongoDB)
 
 
-• API Documentation
+• API DOCUMENTATION
 
 Postman
 
-• Blockchain Development (languages and tools)
+• BLOCKCHAIN DEVELOPMENT (languages and tools)
 
 Solidity
 
@@ -75,7 +72,7 @@ Remix
 
 Reach
 
-• Other
+• OTHER
 
 Figma
 
