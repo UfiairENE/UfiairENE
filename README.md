@@ -1,4 +1,4 @@
-Hi there,
+# Hi there,
 
 I'm Covenant Ufia, a Software Developer.
 
@@ -18,21 +18,21 @@ I write whitepapers and other technical research involving Golang and blockchain
 
 
 
-⚡ RELEVANT ACHIEVEMENTS
+# ⚡ RELEVANT ACHIEVEMENTS
 
 Graduated as one of HNGi8 Finalist(An online Software internship organised and managed by Mark Essien) 
 
 Professional Member 101 Blockchains
 
-✔️ CURRENTLY LEARNING 
+# ✔️ CURRENTLY LEARNING 
 
 Amazon Web Service (AWS)
 
 
 
-💡 SKILLS
+# 💡 SKILLS
  
-•FRONTEND DEVELOPMENT
+# •FRONTEND DEVELOPMENT
 
 HTML
 
@@ -40,7 +40,7 @@ CSS
 
 Javascript
 
-• BACKEND DEVELOPMENT
+# • BACKEND DEVELOPMENT
 
 Golang 
 
@@ -48,17 +48,17 @@ C++
 
 Python
 
-• DATABASE MANAGEMENT
+# • DATABASE MANAGEMENT
 
 SQL(MySQL, postgresql) 
 NoSQL(MongoDB)
 
 
-• API DOCUMENTATION
+# • API DOCUMENTATION
 
 Postman
 
-• BLOCKCHAIN DEVELOPMENT (languages and tools)
+# • BLOCKCHAIN DEVELOPMENT (languages and tools)
 
 Solidity
 
@@ -72,7 +72,7 @@ Remix
 
 Reach
 
-• OTHER
+# • OTHER
 
 Figma
 
