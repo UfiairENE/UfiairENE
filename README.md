@@ -5,6 +5,7 @@ I'm Covenant Ufia, a Software Developer.
 
 And I'm excited Building amazing products.
 
+
 💎 
 
 Through self-study and enrolling in a coding Bootcamp at ALX, Learnweb3dao and Udemy, 
