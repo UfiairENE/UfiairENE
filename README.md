@@ -2,7 +2,6 @@
 
 I'm Covenant Ufia, a Software Developer.
 
-Currently a Blockchain Developer at Capital Votes. 
 
 And I'm excited Building amazing products.
 
@@ -20,9 +19,10 @@ I write whitepapers and other technical research involving Golang and blockchain
 
 # ⚡ RELEVANT ACHIEVEMENTS
 
-Graduated as one of HNGi8 Finalist(An online Software internship organised and managed by Mark Essien) 
+Graduated as one of HNGi8 Finalist(An online Software internship organised and managed by Mark Essien 
 
 Professional Member 101 Blockchains
+
 
 # ✔️ CURRENTLY LEARNING 
 
@@ -57,6 +57,7 @@ NoSQL(MongoDB)
 # • API DOCUMENTATION
 
 Postman
+Gitbook
 
 # • BLOCKCHAIN DEVELOPMENT (languages and tools)
 
@@ -71,6 +72,7 @@ Truffle
 Remix
 
 Reach
+
 
 # • OTHER
 
