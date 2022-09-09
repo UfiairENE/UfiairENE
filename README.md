@@ -1,6 +1,6 @@
 # Hi there,
 
-I'm Covenant Ufia, a Software Developer.
+I'm Covenant Irene Ufia, a Software Developer.
 
 
 And I'm excited Building amazing products.
