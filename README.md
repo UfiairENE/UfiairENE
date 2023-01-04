@@ -24,6 +24,8 @@ Certified Blockchain DevOps Engineer
 
 Women TechMakers Ambassador 
 
+Mentor at Mentors Without Borders 
+
 
 
 # 💡 SKILLS
