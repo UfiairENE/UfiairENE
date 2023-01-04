@@ -1,19 +1,13 @@
 # Hi there,
 
-I'm Covenant Irene Ufia, a Software Developer.
+I'm Covenant Irene Ufia.
 
 
 And I'm excited Building amazing products.
 
 
 💎 
-
-Through self-study and enrolling in a coding Bootcamp at ALX, Learnweb3dao and Udemy, 
-
-I am building a solid foundation in both frontend and backend technologies and languages.
-
-I am developer who is always ready to learn and build more for the future.
-
+Everyday, I am building a solid foundation in both frontend and backend technologies and languages.
 I write whitepapers and other technical research involving Golang and blockchain Development.
 
 
@@ -24,14 +18,20 @@ Graduated as one of HNGi8 Finalist(An online Software internship organised and m
 
 Professional Member 101 Blockchains
 
+Fellow at The Room
 
-# ✔️ CURRENTLY LEARNING 
+Certified Blockchain DevOps Engineer 
 
-Amazon Web Service (AWS)
+Women TechMakers Ambassador 
 
 
 
 # 💡 SKILLS
+
+# •CLOUD
+Azure
+Digital Ocean
+AWS
  
 # •FRONTEND DEVELOPMENT
 
