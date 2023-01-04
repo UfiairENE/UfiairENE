@@ -29,8 +29,11 @@ Women TechMakers Ambassador
 # 💡 SKILLS
 
 # •CLOUD
+
 Azure
+
 Digital Ocean
+
 AWS
  
 # •FRONTEND DEVELOPMENT
