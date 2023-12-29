@@ -8,17 +8,19 @@ And I'm excited Building amazing products.
 
 💎 
 Everyday, I am building a solid foundation in both frontend and backend technologies and languages.
-I write whitepapers and other technical research involving Golang and blockchain Development.
+I have expertise in Docker, Kubernetes, Jenkins, Terraform, Ansible, various scripting/programming languages, and advocate for continuous integration, continuous delivery, and infrastructure as code to optimize the software development lifecycle
 
 
 
 # ⚡ RELEVANT ACHIEVEMENTS
 
-Graduated as one of HNGi8 Finalist(An online Software internship organised and managed by Mark Essien 
-
 Professional Member 101 Blockchains
 
 Fellow at The Room
+
+AfroBitcoin Fellow
+
+Certified Azure DevOps Engineer
 
 Certified Blockchain DevOps Engineer 
 
@@ -91,8 +93,8 @@ JIRA
 Shell
  
 I’m currently improving on all skills cos learning everyday is gangster
+Feel free to reach out and connect with me here on GitHub or find me on LinkedIn to start a conversation. 
 I’m looking forward to collaborating on projects that help growth and optimize development
-You can reach me on irenecufia@gmail.com
 
 <!---
 UfiairENE/UfiairENE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
