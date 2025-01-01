@@ -65,7 +65,12 @@ NoSQL(MongoDB)
 # • API DOCUMENTATION
 
 Postman
+
 Gitbook
+
+Mintlify
+
+Doks
 
 # • BLOCKCHAIN DEVELOPMENT (languages and tools)
 
